@@ -1,2 +1,2 @@
-Understanding git
+Understanding git,
 Getting better
